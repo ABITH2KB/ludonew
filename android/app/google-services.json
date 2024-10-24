@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90221663236",
+    "project_id": "ludokhel-bd729",
+    "storage_bucket": "ludokhel-bd729.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90221663236:android:22c8d9d91f360d7265d151",
+        "android_client_info": {
+          "package_name": "com.example.ludokhell"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqpY70kejdGuKWJYxbdQvp2BbRl6cmBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
